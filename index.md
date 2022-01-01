@@ -31,8 +31,9 @@ position: FullStack Developer Sr.
 - Responsibilities: Design and development of critical mission software, related to the electoral process and governmental systems.
 Coordination of development cells, estimation of times and resources to reach the company goals.
 
-- Technologies: Frontend: Javascript (React,Vue,Vanilla)
-Backend: Python (Flask,Django), Go (Vanilla,Gin,Gorilla).
+- Technologies: 
+  - Frontend: Javascript (React,Vue,Vanilla)
+  - Backend: Python (Flask,Django), Go (Vanilla,Gin,Gorilla).
 
 
 
