@@ -1,4 +1,44 @@
-## Welcome to GitHub Pages
+##  Montenegro Ezequiel Ignacio
+#### Sr Software Developer
+---
+### Personal Information:
+Name : Montenegro Ezequiel Ignacio.
+
+Age : 32 años
+
+Email : ignacio.montenegro.desarrollo@gmail.com
+
+Github : ignaciotwogears
+
+---
+
+### Studies:
+Primary: Escuela C.J.Carding. 
+
+Secondary: E.E.T E.G.Oliver. 
+
+University: Data Scient degree (in progress)
+
+---
+
+### Work Experience:
+
+#### MSA Group:
+Periodo: From 01/11/2020 to today
+
+position: FullStack Developer Sr.
+
+- Responsibilities: Design and development of critical mission software, related to the electoral process and governmental systems.
+Coordination of development cells, estimation of times and resources to reach the company goals.
+
+- Technologies: Frontend: Javascript (React,Vue,Vanilla)
+Backend: Python (Flask,Django), Go (Vanilla,Gin,Gorilla).
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ignaciotwogears/ignaciomontenegro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
