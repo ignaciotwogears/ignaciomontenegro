@@ -12,8 +12,9 @@ Github : ignaciotwogears
 
 ---
 ### About me:
-I am a Full Stack developer, a goal-oriented person who has a strong sense of responsibility. currently working a lot with Python and Javascript on a day-to-day basis. I am training in GO, a language that interests me a lot and which I use in my current job whenever it is necessary to prioritize efficiency. I’m always learning something new and thinking about how that new skill can be applied in my work. Challenges are always welcome, as they are the engine of improvement.
-
+I am a Full Stack developer, a goal-oriented person who has a strong sense of responsibility.
+I’m always learning something new and thinking about how that new skill can be applied in my work. 
+Challenges are always welcome, as they are the engine of improvement.
 ---
 
 ### Studies:
