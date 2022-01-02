@@ -22,16 +22,16 @@ Primary: Escuela C.J.Carding.
 
 Secondary: E.E.T E.G.Oliver. 
 
-University: Data Scient degree (in progress)
+University: Bachelor of Data Science in UBA (in progress).
 
 ---
 
 ### Work Experience:
 
 #### MSA Group:
-Periodo: From 01/11/2020 to today
+From 01/11/2020 to today
 
-position: FullStack Developer Sr.
+Position: FullStack Developer Sr.
 
 - Responsibilities: Design and development of critical mission software, related to the electoral process and governmental systems.
 Coordination of development cells, estimation of times and resources to reach the company goals.
@@ -43,9 +43,27 @@ Coordination of development cells, estimation of times and resources to reach th
 
 
 
+### Cybermapa:
+From 04/05/2014 to 01/11/2020
+
+Position: Developer SSR.
+
+- Responsibilities: 
+ - Development of geographic information systems.
+ - Design and deployment of web services for the integration between IoT and Gis systems.
+ - Construction of communication modules for GPS systems, data interpretation, information processes, and fleet management.
+
+
+- Technologies: 
+  - Frontend : Javascript (VUE, Vanilla).
+  - Backend : Python (Flask,DJango), Nodejs, c++.
+  - DB: Mssql server, mysql.
 
 
 
+
+
+<!---
 You can use the [editor on GitHub](https://github.com/ignaciotwogears/ignaciomontenegro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -81,3 +99,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+-->
+
