@@ -15,8 +15,8 @@ Github : ignaciotwogears
 I am a Full Stack developer, a goal-oriented person who has a strong sense of responsibility.
 I’m always learning something new and thinking about how that new skill can be applied in my work. 
 Challenges are always welcome, as they are the engine of improvement.
----
 
+---
 ### Studies:
 Primary: Escuela C.J.Carding. 
 
@@ -59,8 +59,8 @@ Position: Developer SSR.
   - Backend : Python (Flask,DJango), Nodejs, c++.
   - DB: Mssql server, mysql.
 
-
-
+### My next job? 
+I'm looking for a challenge, a place where I can learn from my colleagues and share with them my own experience. A space to grow and make a great contribution.
 
 
 <!---
