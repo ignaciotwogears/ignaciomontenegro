@@ -59,6 +59,7 @@ Position: Developer SSR.
   - Backend : Python (Flask,DJango), Nodejs, c++.
   - DB: Mssql server, mysql.
 
+---
 ### My next job? 
 I'm looking for a challenge, a place where I can learn from my colleagues and share with them my own experience. A space to grow and make a great contribution.
 
